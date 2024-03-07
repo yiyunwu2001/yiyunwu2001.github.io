@@ -163,7 +163,7 @@ body {
     }
 
     .gallery-image-container.third-width {
-      width: calc((100% - 16px) / 3);
+      width: calc((100% - 32px) / 3);
     }
 
     .gallery-image {
