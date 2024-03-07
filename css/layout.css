@@ -108,7 +108,7 @@ body {
 
     .project-image {
       width: 100%;
-      height: 500px;
+      height: 200px;
       object-fit: cover;
       object-position: center;
     }
@@ -130,7 +130,7 @@ body {
 }
 
 .project-add-image {
-  width: 200px;
+  width: 500px;
   height: auto;
 }
 
