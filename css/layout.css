@@ -162,8 +162,8 @@ body {
       gap: 10px;
     }
 
-    .gallery-image-container.half-width {
-      width: calc((100% - 16px) / 2);
+    .gallery-image-container.third-width {
+      width: calc((100% - 16px) / 3);
     }
 
     .gallery-image {
