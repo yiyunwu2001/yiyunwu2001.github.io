@@ -38,7 +38,7 @@ body {
 }
 
 .project-card-text {
-  overflow: hidden;
+  overflow: visible;
   text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-line-clamp: 4;
@@ -46,7 +46,7 @@ body {
 }
 
 .project-title {
-  overflow: hidden;
+  overflow: visible;
   text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-line-clamp: 1;
