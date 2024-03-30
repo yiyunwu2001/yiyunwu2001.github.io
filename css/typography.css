@@ -40,7 +40,6 @@ body {
 .project-card-text {
   /*overflow: visible;
   text-overflow: ellipsis;*/
-  text-overflow: " [..]";
   display: -webkit-box;
   /*-webkit-line-clamp: 5;*/
   -webkit-box-orient: vertical;
