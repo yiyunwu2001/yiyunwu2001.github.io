@@ -247,6 +247,10 @@ body {
   .project-card {
     max-width: 100%;
   }
+
+.music-card {
+    max-width: 100%;
+  }
 }
 
 
