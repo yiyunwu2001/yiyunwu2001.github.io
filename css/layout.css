@@ -233,7 +233,7 @@ body {
   }
 	
 .music-card {
-    max-width: calc((100% - 16px) / 2);
+    max-width: calc((100% - 16px));
   }
 
 }
