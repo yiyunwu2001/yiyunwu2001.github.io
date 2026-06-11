@@ -110,7 +110,7 @@ body {
     .project-card-text-container {
       flex-direction: column;
       display: flex;
-      gap: 16px
+      gap: 16px;
     }
 
     .project-image {
@@ -232,7 +232,7 @@ body {
     max-width: calc((100% - 16px));
   }
 	
-.music-card {
+  .music-card {
     max-width: calc((100% - 16px));
   }
 
@@ -248,10 +248,8 @@ body {
     max-width: 100%;
   }
 
-.music-card {
+  .music-card {
     max-width: 100%;
   }
 }
-
-
 
