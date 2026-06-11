@@ -120,6 +120,12 @@ body {
       object-position: center;
     }
 
+	.music-project-image {
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
